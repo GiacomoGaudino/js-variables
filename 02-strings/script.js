@@ -10,6 +10,11 @@ console.log(first_name)
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
+const number = 40
+const text = " Starwars "
+const bool = 3 < 2
+console.log(number + text + bool)
+
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
 // in console la stringa con il nome completo
