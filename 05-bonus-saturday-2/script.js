@@ -27,5 +27,5 @@ console.log(completeName); // Output: "Alex Thunder"
 
 // 4. Imposta questa variabile utilizzando una proprietà
 // sulla variabile characters per ottenere la sua lunghezza
-const alphabetSize = "l'inter era ingiocabile xD";
-console.log(alphabetSize.length); // Output: 26
+const alphabetSize = characters.length;
+console.log(alphabetSize); // Output: 26
