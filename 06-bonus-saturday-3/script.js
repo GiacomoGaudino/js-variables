@@ -6,7 +6,7 @@ const welcome = 'welcome'; // NON MODIFICARE QUESTA RIGA
 // 1. Cerca un carattere in una stringa
 // Stampa l'INDICE con cui viene trovato
 // il carattere 'o' nella variabile region
-const regionIndex = regionName.search("o");
+const regionIndex = region.search("o");
 console.log(regionIndex); // Output: 1
 
 // 2. Sottostringhe 
